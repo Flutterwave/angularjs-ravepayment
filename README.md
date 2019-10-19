@@ -8,7 +8,7 @@ An Angular library for RavePay Payment Gateway.
 
 This AngularJS library provides a wrapper to add RavePay Payment to your AngularJS application
 
-###Install
+### Install
 
 ##### NPM
 ```
